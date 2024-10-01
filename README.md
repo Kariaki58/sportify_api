@@ -1,6 +1,6 @@
 #### SPORTIFY API TO GET ARTIST SONGS
 
-Implemented an a simple python program that uses
+Implemented a simple python program that uses
 
 the sportify api to retrieve songs from your favorite artists
 
